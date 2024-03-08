@@ -49,13 +49,13 @@ main p {
 }
 
 #fundo-1 {
-    background:black no-repeat url('imagens/fundo01.jpg') center fixed;
+    background:black no-repeat url('../imagens/fundo01.jpg') center fixed;
     background-size: cover;
     height: 550px;
 }
 
 #fundo-2 {
-    background: black url('imagens/background002.jpg') no-repeat center fixed;
+    background: black url('../imagens/background002.jpg') no-repeat center fixed;
     background-size: cover;
     height: 550px;
 }
