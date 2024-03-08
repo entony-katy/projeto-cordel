@@ -50,7 +50,7 @@ main p {
 
 #fundo-1 {
     background: black no-repeat center fixed;
-    background-image: url('/imagens/background001.jpg'); 
+    background-image: url('/imagens/fundo01.jpg'); 
     background-size: cover;
     height: 550px;
 }
