@@ -49,7 +49,7 @@ main p {
 }
 
 #fundo-1 {
-    background: black no-repeat center fixed;
+    background: no-repeat center fixed;
     background-image: url('/imagens/fundo01.jpg'); 
     background-size: cover;
     height: 550px;
